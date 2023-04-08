@@ -3,7 +3,7 @@
 //pyramids patterns, different functions for every type
 /*include directives*/
 #include <stdio.h>
-#include "files_rep\fun.h"
+#include "fun.h"
 
 /*patterns call available  
 <take note>/replace size with the required parameter number ex. 4/ >
